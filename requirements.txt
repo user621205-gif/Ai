@@ -1,0 +1,5 @@
+fastapi==0.78.0
+claude-ai==1.0.0
+python-jose[cryptography]==3.3.0
+httpx==0.23.0
+uvicorn==0.18.0
